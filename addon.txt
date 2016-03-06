@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+    "name"          "OOUI"
+    "version"       "1.00"
+    "author_name"   "Rocky Breslow"
+    "author_url"    "http://rockybreslow.me/"
+    "info"          "gLua library for programming object-oriented user interfaces"
+    "override"      "0"
+}
